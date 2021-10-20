@@ -1,5 +1,5 @@
 # Programa que sorteia um aluno para apagar o quadro
-from random import choice
+import random
 primeiro = input('Nome do primeiro aluno: ')
 segundo = input('Nome do segundo aluno: ')
 terceiro = input('Nome do terceiro aluno: ')
