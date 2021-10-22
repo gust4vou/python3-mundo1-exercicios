@@ -1,4 +1,4 @@
 # Programa que exibe ola mundo
-msg = 'Olá, Mundo!'
+msg = '\033[32mOlá, Mundo!\033[m'
 print(msg)
 
